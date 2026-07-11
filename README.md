@@ -1,28 +1,41 @@
+# 🕒 Digital Clock
 
-A simple digital clock built using **HTML, CSS, and JavaScript**. The clock displays the current system time in **24-hour format** and updates every second without requiring a page refresh.
+A simple and responsive digital clock built using **HTML, CSS, and JavaScript**. It displays the current system time and updates every second without requiring a page refresh.
 
-## 📌 Features
+live - https://priyanshu-karmavat.github.io/basic-digital-clock/
 
-- Displays the current time in **HH:MM:SS** format
-- Updates automatically every second
-- Uses JavaScript's `Date` object to fetch the current time
-- Adds leading zeros for single-digit hours, minutes, and seconds
-- Minimal black-and-white user interface
-- Responsive font size using viewport width (`vw`)
+## ✨ Features
+
+- Real-time clock with automatic updates every second
+- Toggle between **12-hour** and **24-hour** formats
+- Displays the current date
+- Time-based greeting (Good Morning, Good Afternoon, Good Evening)
+- Responsive design for desktop and mobile devices
+- Animated glowing clock UI
+- Built with pure HTML, CSS, and JavaScript (no external libraries)
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript (ES6)
 
 ## 📂 Project Structure
 
 ```text
-digital-clock/
-│── Analog_clock
+basic-digital-clock/
+│── index.html
 │── style.css
 │── script.js
 └── README.md
 ```
-"# basic-analog-clock" "# basic-analog-clock" 
+
+## 🚀 How to Run
+
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. Enjoy the live digital clock.
+
+## 👨‍💻 Author
+
+**Priyanshu Karmavat**
